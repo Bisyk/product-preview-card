@@ -12,6 +12,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+### The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 ### Built with
 
 - HTML5
