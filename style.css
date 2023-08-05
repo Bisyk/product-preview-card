@@ -6,7 +6,7 @@ body{
   background-color: hsl(30, 38%, 92%);
 }
 .main__container{
-  width: 600px;
+  width: 550px;
   height: 400px;
   position: absolute;
   top: 50%;
@@ -93,7 +93,7 @@ body{
 
 @media screen and (max-width: 375px){
   .main__container{
-    width: 350px;
+    width: 365px;
     height: 550px;
     display: flex;
     flex-direction: column;
